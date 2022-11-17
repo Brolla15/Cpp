@@ -1,0 +1,7 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\Brolla\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(40): warning C4172: returning address of local variable or temporary: pom
+  ConsoleApplication6.vcxproj -> C:\Users\Brolla\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe

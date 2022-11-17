@@ -1,0 +1,3 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Brolla\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(44,27): warning C4018: '<=': signed/unsigned mismatch
+  ConsoleApplication4.vcxproj -> C:\Users\Brolla\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe

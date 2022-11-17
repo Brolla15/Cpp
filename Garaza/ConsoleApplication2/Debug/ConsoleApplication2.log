@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Brolla\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(115,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(77,9): warning C4101: 'vrijednost': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\Brolla\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

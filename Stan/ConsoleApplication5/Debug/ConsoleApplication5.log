@@ -1,0 +1,7 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Brolla\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(49,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brolla\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication5.vcxproj -> C:\Users\Brolla\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
