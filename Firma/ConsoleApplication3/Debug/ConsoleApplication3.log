@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Brolla\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication3.vcxproj -> C:\Users\Brolla\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
